@@ -1,3 +1,0 @@
-npm i -g heroku
-https://project-security-web-c666d521dae5.herokuapp.com/
-https://git.heroku.com/project-security-web.git
