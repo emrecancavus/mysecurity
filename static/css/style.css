@@ -58,19 +58,20 @@ body {
 
 .img-logo{
     position: absolute;
-    top: 150px;
+    top: 120px;
     margin:auto;
    
 }
 .img-logo1{
     position: absolute;
-    top: 250px;
-    left: 1200px;
+    top: 40px;
+    margin:auto;
 }
 
 .container {
     position: absolute;
-    top: 600px;
+    top: 400px;
+    margin:auto;
 }
 
 .img-category{
@@ -85,11 +86,14 @@ body {
 }
 .settings{
     position:absolute;
-    top:450px;
+    top:230px;
+    margin:auto;
 }
+
 .settings1{
     position:absolute;
-    top:700px;
+    top:550px;
+    margin:auto;
 }
 .margin_bottom{
     margin-bottom:50px;
